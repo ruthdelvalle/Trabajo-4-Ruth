@@ -70,7 +70,7 @@ public class RegistroAutomovilesApp {
         int id = scanner.nextInt();
         scanner.nextLine(); // Limpiar el buffer del scanner
 
-        // Llama al método correspondiente en la clase RegistroAutomoviles para editar el registro
+        
     }
 
 }
